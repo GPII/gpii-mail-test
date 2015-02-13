@@ -1,2 +1,2 @@
-# gpii-mail-test
-Module for testing sending and receiving email, password resets, and other things.
+# gpii-test-mail
+A mail testing component for use in capturing outgoing emails.
